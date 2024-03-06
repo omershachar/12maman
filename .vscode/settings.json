@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "/home/omer/repos/12maman/get_name.c",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
